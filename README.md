@@ -39,4 +39,4 @@ Une application Android développée avec Kotlin permettant de gérer des tâche
 
 1. Cloner le projet :
    ```bash
-   git clone https://github.com/ton-utilisateur/mon-projet-android.git
+   git clone https://github.com/LAMBARAA-Abdellah/MyMobileApp.git
